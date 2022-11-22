@@ -1,0 +1,124 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed&family=Michroma&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Barlow+Condensed&family=Michroma&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    font-family:Barlow;
+}
+header{
+    display: flex;
+    justify-content:space-between;
+    margin-top: 40px;
+    
+}
+header img{
+    margin-left: 90px;
+}
+.but{
+    margin-right: 90px;
+    background-color:  hsl(198, 28%, 93%);
+    border:  1px  hsl(198, 28%, 93%);
+    padding: 20px;
+    color: rgba(0, 0, 0, 0.783);
+    border-radius: 10px;
+} 
+main{
+   
+  
+   
+}  
+.img-1{
+margin-right: 90px;
+}
+.para-1 {
+    margin-left: 90px;
+    width: 400px;
+    margin-bottom: 100px;
+}
+.para-1 h1,p,button{
+margin-top: 40px;
+}
+.buts{
+    display: flex;
+    margin-left: 20px;
+}
+.para-1 h1{
+    font-weight: 900;
+    font-size: 50px;
+}
+.but-2{
+    background-color: hsl(22, 100%, 69%);
+    border:  1px hsl(22, 100%, 69%);
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+#sent{
+    margin-left: 20px;
+    margin-top: 60px;
+    color: rgb(136, 133, 133);
+}
+.img-1{
+    border-radius: 10px;
+}
+.main-1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+.main-2{
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+}
+.para-2{
+    width: 400px;
+}
+.img-2{
+    margin-right: 30px;
+    border-radius: 10px;
+}
+.img-3{
+    border-radius: 10px;
+}
+.head-2{
+    width: 200px;
+    font-weight: 900;
+}
+.foot-img{
+    background-color: hsl(22, 100%, 69%);
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+}
+.foot-1{
+    
+    width: 250px;
+    margin-top: 100px;
+}
+footer{
+    display: flex;
+    justify-content: space-evenly
+    
+    
+
+}
+footer img,h1,p{
+    margin: 20px;
+    
+}
+.images{
+    margin-right: 150px;
+}
+.mini-logo{
+    margin-left: 110px;
+    margin-top: 40px;
+}
+p{
+    color:  rgb(136, 133, 133);
+}
